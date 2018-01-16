@@ -1,0 +1,50 @@
+Billing: Billing Questions/Account Management
+
+We've recently renewed our hosting plan service with eHost at the end of last year, then at January 4th we were mistakenly charged once more(by JustHost) for a monthly plan that is almost 4 times more expensive than the one purchased(with eHost).
+
+S
+Sheldon Savio joined
+
+L
+Hello there, can you help me ? 
+
+S
+Hello Lucas, My name is Sheldon and I am happy to help you today.
+
+Could you provide me the primary domain of the account?
+
+L
+omniavita.com.br 
+
+S
+Could I get the last 4 characters of the main password to verify ownership of the account, please?
+
+L
+JVam
+
+S
+Thank you for Validating.
+
+I see the account is auto renewed at $14.99/month for 1 year, total $179.88
+
+How many domains and email accounts do you have in this account?
+
+L
+there's one problem: we weren't at any point noticed about these change and since our host renewal was made at the end of last year, we were to have our domain hosting plan last until 25/12/2018. Why are you charging us without any prior notice/agreement since we've already paid for the service we agreed paying ? And how can we proceed with a chargeback on these $179.88 ?
+
+I do believe the amount of domains and e-mail accounts are somewhat utter irrelevants points, anyway: we have 5 e-mail accounts and 1 domain.
+
+S
+I see the account was set to expire on 01/08/2018 , hence the auto renewal of the account was done 15 days prior to the expiration date.
+The account is set to auto renewal
+
+L
+this doesn't make sense, as eHost charged us on december 25th of 2017, why is there another billing for a service one has already paid and why were there no prior notices of such increases in the amount paid for the same service ?
+
+S
+I see the charge from ehost is not added in this account, please wait, let me check this with a specialist
+
+L
+Okay. 
+Yesterday we preemptively requested a copy of the receipt from eHosts but they've haven't answered us yet. Neither did JustHost's support.
+
